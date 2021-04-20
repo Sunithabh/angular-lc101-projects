@@ -3,9 +3,21 @@ h3 {
 }
 
 img {
-
+  width: 30%;
+  height: auto;
 }
 
 .photos {
    text-align: center;
+   vertical-align: top;
+};
+
+.img1,
+.img2,
+.img3 {
+  display: block;
+}
+
+.pics {
+   vertical-align: middle;
 }
