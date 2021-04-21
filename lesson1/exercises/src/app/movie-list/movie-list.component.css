@@ -1,8 +1,13 @@
 .movies {
-   color: yellowgreen;
-   font-size:1.0vw;
+  
+  color: yellowgreen;
+  font-size:1.0vw;
+  border:dashed;
+  
 }
 
 h3 {
   text-align: centre;
+  text-decoration: underline;
+  font-size:medium;
 }
